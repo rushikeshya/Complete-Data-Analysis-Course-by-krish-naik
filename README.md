@@ -55,7 +55,8 @@ I will continuously update this repository as I:
 **Rushikesh Yadav**  
 Aspiring Data Analyst | Data Science Enthusiast  
 
-🔗 GitHub: [https://github.com/rushikeshya]
+🔗 (GitHub) [https://github.com/rushikeshya]
+
 🔗 LinkedIn: [https://www.linkedin.com/in/rushikeshyadav149/]
 
 ---
