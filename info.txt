@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Complete Data Analyst Bootcamp From basics to advance by krish naik and
 
 Started at 22 - 12 - 2025
 Total hrs - 89Hrs
 
+=======
+Complete Data Analyst Bootcamp From basics to advance by krish naik and
+
+Started at 22 - 12 - 2025
+Total hrs - 89Hrs
+
+>>>>>>> 96c568802cd621a5706b4510bfe684a30133ee7d
